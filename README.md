@@ -191,20 +191,31 @@ Architecture
 ```bash
 git clone https://github.com/LucasGarciaProjects/SpectralApp.git
 cd SpectralApp
-2. Install frontend dependencies
-npm install
-3. Install Python dependencies
+```
 
+### 2. Install frontend dependencies
+```bash
+npm install
+```
+
+### 3. Install Python dependencies
 Create a virtual environment and install the required packages.
 
+```bash
 pip install -r requirements.txt
-4. Start the development server
+```
+
+
+### 4. Start the development server
+```bash
 npm run dev
+```
 
 The application will be available at:
 
 http://localhost:3000
-Academic Context
+
+## Academic Context
 
 This project was developed as the Bachelor's Final Thesis for the degree:
 
